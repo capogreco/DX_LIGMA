@@ -1,0 +1,20 @@
+{
+  "name": "61_distributed_poly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "midi": "^1.0.0",
+    "os": "^0.1.1",
+    "socket.io": "^3.1.1",
+    "wifi-name": "^3.1.1"
+  }
+}
